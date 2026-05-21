@@ -1,0 +1,25 @@
+src/raw_ptr.rs
+  283a2038c70d0789 6,81-90
+tests/test_raw_ptr.rs
+  283a2038c70d0789 273-331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "48f681639aa616e7d5155fdf16b7fa35bf7616f4",
+  "prompts": {
+    "283a2038c70d0789": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "9f6f4d2f-661f-4845-b97e-4bf18e09fe7e",
+        "model": "unknown"
+      },
+      "human_author": "Aleksei Surikov",
+      "messages": [],
+      "total_additions": 92,
+      "total_deletions": 21,
+      "accepted_lines": 70,
+      "overriden_lines": 0
+    }
+  }
+}
