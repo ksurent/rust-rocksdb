@@ -1,0 +1,31 @@
+src/db.rs
+  s_4c9f063913cd00::t_5a8fecfabae484 3739-3781,4102-4136
+src/lib.rs
+  s_4c9f063913cd00::t_34c641a839bb01 125-126
+CHANGELOG.md
+  s_4c9f063913cd00::t_e3016a37c52cb2 188-189
+tests/test_db.rs
+  s_4c9f063913cd00::t_e7d33b5b1edd60 30-31,958-986
+librocksdb-sys/c-api-extensions/c_api_extensions.h
+  s_4c9f063913cd00::t_1a10b3a347de04 277-318
+librocksdb-sys/c-api-extensions/c_api_extensions.cc
+  s_4c9f063913cd00::t_3c8b63ff865527 25,49-50,972-1042
+tests/test_optimistic_transaction_db.rs
+  s_4c9f063913cd00::t_a6fc4f1e7df727 21,664-692
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ff2b215fbec78e28b8912ae28ab911e7baf25cad",
+  "prompts": {},
+  "sessions": {
+    "s_4c9f063913cd00": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_4c9f063913cd00",
+        "model": "unknown"
+      },
+      "human_author": "Aleksei Surikov <alexey@cloudflare.com>"
+    }
+  }
+}
