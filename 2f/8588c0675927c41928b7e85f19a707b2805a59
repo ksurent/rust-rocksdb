@@ -1,0 +1,17 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2f8588c0675927c41928b7e85f19a707b2805a59",
+  "prompts": {},
+  "sessions": {
+    "s_4c9f063913cd00": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_4c9f063913cd00",
+        "model": "unknown"
+      },
+      "human_author": "Aleksei Surikov <alexey@cloudflare.com>"
+    }
+  }
+}
