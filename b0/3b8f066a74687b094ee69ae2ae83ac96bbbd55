@@ -1,7 +1,7 @@
 tests/test_raw_ptr.rs
-  283a2038c70d0789 273-331
+  283a2038c70d0789 194,273-331,274-331
 src/raw_ptr.rs
-  283a2038c70d0789 6,81-90
+  283a2038c70d0789 6,72,81-90,82-90
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -15,7 +15,6 @@ src/raw_ptr.rs
         "model": "unknown"
       },
       "human_author": "Aleksei Surikov",
-      "messages": [],
       "total_additions": 92,
       "total_deletions": 21,
       "accepted_lines": 70,
